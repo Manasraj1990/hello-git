@@ -1,0 +1,36 @@
+GIT commands
+
+
+>TELL GIT WHO YOU ARE:
+
+1.git config --global user.name "your name" 
+ 
+2.git config --global user.email "your name" 
+
+>CREATE A NEW LOCAL REPOSITORY AND TRACK REPOSITORY:
+
+1.git init
+
+>CHECK OUT A REPOSITORY:
+
+1.git clone/path/to/repository
+
+2.git clone username@host:/path/to/repository
+
+>ADD FILES:
+
+1.git add <filename>
+
+2.git add *
+
+>COMMIT:
+
+1.git commit -m "commit message" 
+
+>PUSH
+
+1.git push origin master
+
+>STATUS:
+
+1.git status
