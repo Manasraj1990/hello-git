@@ -34,3 +34,7 @@ GIT commands
 >STATUS:
 
 1.git status
+
+>TO CHECK COMMITS:
+
+1.git log 
